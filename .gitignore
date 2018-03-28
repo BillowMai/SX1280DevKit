@@ -1,0 +1,4 @@
+BUILD/*
+!BUILD/*.hex
+SX1280DevKit.si4project/
+DebugConfig/
