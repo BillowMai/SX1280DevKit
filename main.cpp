@@ -21,7 +21,7 @@ Maintainer: Gregory Cristian & Gilbert Menth
 #include "sx1280-hal.h"
 #include "main.h"
 
-
+ 
 /*!
  * \brief Define IO for Unused Pin
  */
